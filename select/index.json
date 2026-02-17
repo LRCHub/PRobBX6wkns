@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ゴースト feat. 新藤晴一(from ポルノグラフィティ) (合作演出：新藤晴一)",
+  "base_artist": "Bimi",
+  "createdAt": "2026-02-17T19:01:16.333395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴースト",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/01_ゴースト_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゴースト",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/02_ゴースト_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トースト・トゥ・ザ・ゴースト",
+      "artist": "Bad Wolves",
+      "has_synced": false,
+      "path": "select/03_トースト・トゥ・ザ・ゴースト_Bad_Wolves.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゴースト・オブ・ア・ローズ",
+      "artist": "Blackmore's Night",
+      "has_synced": false,
+      "path": "select/04_ゴースト・オブ・ア・ローズ_Blackmore's_Night.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジーザス、マリー・アンド・ザ・ホーリィ・ゴースト (ライヴ)",
+      "artist": "ディオ",
+      "has_synced": false,
+      "path": "select/05_ジーザス、マリー・アンド・ザ・ホーリィ・ゴースト_(ライヴ)_ディオ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゴースト・タウン",
+      "artist": "勝手にしやがれ",
+      "has_synced": false,
+      "path": "select/06_ゴースト・タウン_勝手にしやがれ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴースト feat. 新藤晴一(from ポルノグラフィティ)",
+      "artist": "Bimi",
+      "has_synced": false,
+      "path": "select/pl_01_ゴースト_feat._新藤晴一(from_ポルノグラフィティ)_Bimi.txt"
+    }
+  ]
+}
